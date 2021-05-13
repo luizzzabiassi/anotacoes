@@ -9,5 +9,3 @@ class Anotacoes{
         }
     }
 }
-
-let anotacao = new Anotacoes()
